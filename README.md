@@ -1,2 +1,2 @@
 # RLStudy
-Markdowns and codes for RL4LLM
+Notes and codes for RL4LLM
