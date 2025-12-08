@@ -286,7 +286,7 @@ $$
 
 ## 3. 手撕代码
 
-
+https://github.com/Yxccccccc/RLStudy/blob/main/Implements/TRPO.ipynb
 
 ## 4. References
 
