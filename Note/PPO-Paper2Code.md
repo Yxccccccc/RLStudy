@@ -230,5 +230,3 @@ $0<\lambda<1$：在**偏差–方差**之间平衡
 [5]Github:[study_rlhf](https://github.com/wlll123456/study_rlhf)
 
 [6]arXiv:[High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438?utm_source=chatgpt.com)
-
-[7]
